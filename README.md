@@ -1,5 +1,7 @@
 # Awesome MCP FastAPI
 
+[![smithery badge](https://smithery.ai/badge/@MR-GREEN1337/awesome-mcp-fastapi)](https://smithery.ai/server/@MR-GREEN1337/awesome-mcp-fastapi)
+
 A powerful FastAPI-based implementation of the Model Context Protocol (MCP) with enhanced tool registry capabilities, leveraging the mature FastAPI ecosystem.
 
 ## Overview
@@ -41,6 +43,15 @@ Our implementation improves upon the standard MCP tool registry by:
 
 ### Installation
 
+#### Installing via Smithery
+
+To install Awesome MCP FastAPI for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@MR-GREEN1337/awesome-mcp-fastapi):
+
+```bash
+npx -y @smithery/cli install @MR-GREEN1337/awesome-mcp-fastapi --client claude
+```
+
+#### Manual Installation
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/awesome-mcp-fastapi.git
